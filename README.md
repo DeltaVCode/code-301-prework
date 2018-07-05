@@ -2,7 +2,7 @@
 
 To get your laptop and yourself ready for the start of Code 301, there are a series of pre-work tasks to complete. 
 
-Before completing the tasks in this document, ensure that you have completed all of the installation tasks in the [Code 201 Prework](https://github.com/codefellows/code-201-prework).
+Before completing the tasks in this document, ensure that you have completed all of the installation tasks in the [Code 201 Prework](https://github.com/DeltaVCode/code-201-prework).
 
 In particular, if you have tested in to Code 301 and did not take Code 201, be especially attentive to the git and GitHub portion of the Code 201 prework. Note that your future classmates who took 201 will already have a month of practice using git and GitHub; it is a common area of challenge in 301 for students who tested in to the course. 
 
@@ -10,9 +10,9 @@ Note that the tasks below have a corresponding assignment to submit in your Canv
 
 ## Career Coaching Assignments
 
-1. Reflect on how to boost your [Professional Etiquette](https://codefellows.github.io/common_curriculum/career_coaching/Code_301/Professional_Etiquette)
-1. Build up your bank of [Behavioral Questions](https://codefellows.github.io/common_curriculum/career_coaching/Code_301/Behavioral_Questions)
-1. Practice your [Professional Pitch](https://codefellows.github.io/common_curriculum/career_coaching/Code_301/Professional_Pitch_Draft)
+1. Reflect on how to boost your [Professional Etiquette](https://DeltaVCode.github.io/common_curriculum/career_coaching/Code_301/Professional_Etiquette)
+1. Build up your bank of [Behavioral Questions](https://DeltaVCode.github.io/common_curriculum/career_coaching/Code_301/Behavioral_Questions)
+1. Practice your [Professional Pitch](https://DeltaVCode.github.io/common_curriculum/career_coaching/Code_301/Professional_Pitch_Draft)
 
 ## Code Assignments
 
@@ -47,7 +47,7 @@ Students in Code 201 complete a time-boxed design comp assignment, called "Choco
 
 1. Create and clone a new GitHub repository to house the code for this project.
 2. Immediately check out a new branch in which to do your work.
-3. Save the contents of the [`assets` directory](https://github.com/codefellows/code-301-prework/tree/master/assets){:target="_blank"} into an `assets` directory in your project.
+3. Save the contents of the [`assets` directory](https://github.com/DeltaVCode/code-301-prework/tree/master/assets){:target="_blank"} into an `assets` directory in your project.
 3. Write your code in two files: `index.html` and `style.css`. You do not need to include JavaScript.
 3. Use the included `PREVIEW.png` image as a reference; your goal is to match it as closely as possible.
 4. Making regular Git commits with appropriately descriptive commit messages while you are working.
