@@ -10,26 +10,16 @@ Note that the tasks below have a corresponding assignment to submit in your Canv
 
 ## Career Coaching Assignments
 
+1. Familiarize yourself with the [Career Coaching program](https://DeltaVCode.github.io/common_curriculum/career_coaching), and review the [Code 301 Career Coaching Syllabus](https://DeltaVCode.github.io/common_curriculum/career_coaching/Code_301/301_Career_Coaching_Syllabus).
 1. Reflect on how to boost your [Professional Etiquette](https://DeltaVCode.github.io/common_curriculum/career_coaching/Code_301/Professional_Etiquette)
 1. Build up your bank of [Behavioral Questions](https://DeltaVCode.github.io/common_curriculum/career_coaching/Code_301/Behavioral_Questions)
-1. Practice your [Professional Pitch](https://DeltaVCode.github.io/common_curriculum/career_coaching/Code_301/Professional_Pitch_Draft)
+1. Practice your [Professional Pitch](https://DeltaVCode.github.io/common_curriculum/career_coaching/Code_301/Professional_Pitch)
 
 ## Code Assignments
 
 ### jQuery
 
-Complete all of the free portions (not the paid "Pro" ones) [Codecademy course in jQuery](https://www.codecademy.com/en/tracks/jquery). The Canvas submission is a screenshot indicating that the course is complete.
-
-If you would like extra practice on jQuery, [Khan Academy also has a course](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) that you are free to look at and work through, but is not required.
-[SoloLearn has a course as well](https://www.sololearn.com/Course/jQuery/), which is also not required.
-
-### Code Wars
-
-Throughout Code 301 you will be completing a series of assignments at [Code Wars](https://www.codewars.com).
-
-1. If you do not already have one, sign up for a user account at Code Wars.
-2. Complete [this kata](https://www.codewars.com/kata/check-the-exam).
-3. In the corresponding Canvas assignment, submit a link to your Code Wars profile page and copy/paste your solution code into the text box.
+Complete the introductory [SoloLearn jQuery Course](https://www.sololearn.com/Play/jQuery). The Canvas submission is a screenshot indicating that the course is complete.
 
 ### Chocolate Pizza CSS
 
@@ -53,13 +43,13 @@ Students in Code 201 complete a time-boxed design comp assignment, called "Choco
 4. Making regular Git commits with appropriately descriptive commit messages while you are working.
 5. When finished, be sure to push your final code to GitHub and merge your branch into `master`.
 6. Deploy your page on GitHub Pages via the options in the repository "Settings" tab.
-7. Submit the links to your repoitory AND your deployment in the corresponding Canvas assignment.
+7. Submit the links to your repository AND your deployment in the corresponding Canvas assignment.
 
 
 ### Setup of Your Laptop Dev Environment (Canvas assignment)
 
-This next section will walk you through setting up your local enviroment. There is also a related canavs assigment that you need to turn in for this. 
+This next section will walk you through setting up your local environment. There is also a related Canavs assignment that you need to turn in for this. 
 
-When you are done installing both the Heroku CLI and postgres, make sure to verifiy them again one directly after the other so that both of the output message are on your terminal screen at the same time. Once they are both on your screen, take a screen single screen shot and use that as your submission for your canvas assignment.
+When you are done installing both the Heroku CLI and postgres, make sure to verify them again one directly after the other so that both of the output message are on your terminal screen at the same time. Once they are both on your screen, take a screen single screen shot and use that as your submission for your canvas assignment.
 
-Click [Here](./setup_local_env.md) to move to the next secion!
+Click [Here](./setup_local_env.md) to move to the next section!
